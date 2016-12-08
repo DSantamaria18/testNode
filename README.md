@@ -1,2 +1,2 @@
 # testNode
-test fot nodejs freecodecamp course
+test for nodejs freecodecamp course
